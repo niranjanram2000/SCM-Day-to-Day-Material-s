@@ -62,17 +62,15 @@
 7. Item Management
 
 ### DAY-8
-1. Inventory Management Transactions / Miscellaneous Receipts
-2. Assign the Roles
+1. Manage Data access or Users
+2. Inventary Management (Classic)
 3. Assign the Data Access
 
 ### DAY-9
-1. Approvals in Organization – Job Level Approval
-2. Creating Positions
-3. Creating the Employee
-4. Approval Hierarchy
-5. Create a Requisition
-
+1. Manage job
+2. Manage Users
+3. Manage Requsition Approvals
+  
 ### DAY-10
 1. Job Level Approval Hierarchy
 2. Create a Requisition
