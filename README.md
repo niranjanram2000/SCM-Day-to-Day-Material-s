@@ -9,42 +9,57 @@
 3. Create Enterprise Structure
 
 ### DAY-3
-1. Create Locations
-2. Manage Spreadsheet
-3. Manage Locations
-4. Division Creation
-5. Manage Currencies
-6. Manage Charts of Accounts
-7. Create Value Set
-8. Manage Charts of Accounts (again written)
+1. Manage Locations (OR) Locations
+2. Manage Accounting Calenders
+3. Manage Currencies
+4. Manage Chat's of Accounts Value Set's
+5. Manage Chat's of Accounts Stractures
+6. Manage Chat's of Accounts Stracture Instence
    
 ### DAY-4
-1. Manage Charts of Accounts Value Set
-2. Creating Ledgers
-3. Defining Legal Entity
-4. Manage Legal Entity HCM Information
-5. Assigning Legal Entities with Value Set and Link it
-6. Manage Business Units
+1. Manage Charts of Accounts Value Set Values
+2. Manage Primary Ledger
+3. Specify Ledger Option
+4. Manage Legal Addresses
+5. Manage Legal Entity
+6. Manage Legal Entity HCM Information
+7. Assign Balancing Sigment Value to Legal Entities
+8. Assign Balancing Sigment Value to Ledger
+9. review and Submit Accounting Configaration
+10. Manage Primary Ledgers
+11. Manage Business Units
+12. Assign Business Unit Business Function
+13. Manage Business Unit Set Assignment 
 
 ### DAY-5
-1. Inventory Organization
-2. Manage Facility Shifts
-3. Sub Inventories
-4. Define Employee
+1. Manage Facility Shifts
+2. Manage Facility Workday Patterns
+3. Manage Facility Scodule Exception
+4. Manage Facility Scodule
+5. Manage Item Organaization
+6. Manage Inventary Organaization
+7. Configure Sub-Inventarys
+8. Manage Sub-Inventarys and Lacators
+9. Manage Locations
+10. Manage Job's
+11. Manage Departments
+12. Manage Positions
+13. Manage Users
    
 ### DAY-6
-1. Roles / Types & Roles
+1. Product Management
 2. PIM – Product Information Management
 3. Item Creation
 4. Manage Attributes
 
 ### DAY-7
-1. Unit of Measure
-2. Define the Standard UOM Conversions
-3. Item Class
-4. Item Management
-5. Item Catalogs and Categories
-6. Code Functional Area Categories
+1. Manage Unit of Measures
+2. Manage Unit of Measures Classes
+3. Manage Attribute Group
+4. Manage Item Class
+5. Manage Functional Area Catalogs
+6. Manage Data Access for User
+7. Item Management
 
 ### DAY-8
 1. Inventory Management Transactions / Miscellaneous Receipts
