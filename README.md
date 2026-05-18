@@ -84,6 +84,26 @@
 6. Approval in Groups
 7. Cost Center Based Approvals
 
+  ### DAY-12
+1. Purchase orders
+2. Create purchase order
+3. Purchase agreements
+4. Manage purchasing documents approvals
+5.Purchase requisition
+6. Manage requisition approvals
+7. Inventory management
+   
+### DAY-13
+1. CPA – Contract Purchase Agreement
+2. Purchase agreements
+3. Receiving (Inbound)
+4. Routing method
+5. Direct delivery
+5. Standard receiving
+6. Inspection receiving
+7. Suppliers
+8. Product Information Management
+
 
 
 
