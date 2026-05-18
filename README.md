@@ -104,6 +104,57 @@
 7. Suppliers
 8. Product Information Management
 
+  ### DAY-14
+1. Types of Receivings
+2. Blind Receiving
+3. Substitute Receiving
+4. Express Receipts
+
+### Day 15
+1. Unorder Receipts
+2. Returns
+3. Receive Expected Shipments
+4. Put Away Receipts
+5. Review Completed Transactions
+6. Return Receipts
+6. Correct Receipts
+
+### Day 16
+1. Advance Shipment Notice
+2. Inbound Shipment
+3. Manage Item Quantities
+4. Upload ASN or ASBN
+5. Vacation Rules
+6. Manage Requisition Approvals
+7. Self Service Procurement
+8. Manage Catalogs
+9. Manage Functional Area Catalogs
+10. Create Item
+11. Manage Item Catalog Category Hierarchy
+12. Manage Content Zone
+13. Manage Information Templates
+ 
+### Day 17
+1. Create Suppliers
+2. Manage Functional Area Catalogs
+3. Create Item
+4. BPA (Blanket Purchase Agreements)
+5. Manage Agreements
+6. Manage Catalog Category Hierarchy
+7. Manage Content Zone
+8. Manage Catalog
+9. Manage Catalog Templates Description Flexfields
+10. Manage Information Templates
+11. Manage Public Shopping List
+
+### Day 18
+1. Manage Smart Forms
+2. Manage Content Zones
+3. Manage Public Shopping Lists
+4. Data Access for Procurement
+5. Manage Catalogs
+6. Manage Supplier Content Map Set
+
 
 
 
