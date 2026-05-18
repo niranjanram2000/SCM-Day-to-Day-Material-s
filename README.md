@@ -110,7 +110,7 @@
 3. Substitute Receiving
 4. Express Receipts
 
-### Day 15
+### DAY-15
 1. Unorder Receipts
 2. Returns
 3. Receive Expected Shipments
@@ -119,7 +119,7 @@
 6. Return Receipts
 6. Correct Receipts
 
-### Day 16
+### DAY-16
 1. Advance Shipment Notice
 2. Inbound Shipment
 3. Manage Item Quantities
@@ -134,7 +134,7 @@
 12. Manage Content Zone
 13. Manage Information Templates
  
-### Day 17
+### DAY-17
 1. Create Suppliers
 2. Manage Functional Area Catalogs
 3. Create Item
@@ -147,7 +147,7 @@
 10. Manage Information Templates
 11. Manage Public Shopping List
 
-### Day 18
+### DAY-18
 1. Manage Smart Forms
 2. Manage Content Zones
 3. Manage Public Shopping Lists
