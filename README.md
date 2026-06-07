@@ -65,6 +65,7 @@
 1. Manage Data access or Users
 2. Inventary Management (Classic)
 3. Assign the Data Access
+4. Manage item Quantity
 
 ### DAY-9
 1. Manage job
