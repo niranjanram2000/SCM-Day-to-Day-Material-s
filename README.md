@@ -73,32 +73,59 @@
 3. Manage Requsition Approvals
   
 ### DAY-10
-1. Job Level Approval Hierarchy
-2. Create a Requisition
-   
+
+- Job Level Approval Hierarchy
+1. Purchase Requisition
+- reate a Requisition
+ 1. Manage Approval Requisition
+ 2. Manage Users
+     
 ### DAY-11
-1. Position Based Approval Hierarchy
-2. Define Position Tree
-3. Linking the Positions
-4. Approval Setup
-5. Employee Level Approval
-6. Approval in Groups
-7. Cost Center Based Approvals
+- Position Based Approval Hierarchy
+  1. Manage Positions
+- Define Position Tree
+  1. Manage Position Trees
+- Linking the Positions
+- Approval Setup
+  1. Manage Requisition Approvals
+  2. Purchase Requisition (ADF)
+- Employee Level Approval
+  1. Purchase Requisition (ADF)
+  2. Manage Requisition Approvals
+- Approval in Groups
+  1. Manage Approval Groups
+  2. Manage Requisition Approvals
+  3. Purchase Requisition (ADF)   
+- Cost Center Based Approvals
+  1. Manage Departments
+  2. Manage Requestion Approvals
 
   ### DAY-12
-1. Purchase orders
-2. Create purchase order
-3. Purchase agreements
-4. Manage purchasing documents approvals
-5.Purchase requisition
-6. Manage requisition approvals
-7. Inventory management
+- Purchase orders
+  1. Purchase Agreements
+  2. Manage Purchasing Document Approvals
+- Create purchase order
+  1. Manage Requestion Approval
+- Create PO ( purchase order)
+  1. purchase orders
+- Create PR ( purchase requistion )
+  1. Purchase Requestion (ADF)
+  2. Inventory Management
+  3. Purchase Requestion (ADF)
+  4. Purchase Agreemrnts
    
 ### DAY-13
-1. CPA – Contract Purchase Agreement
-2. Purchase agreements
-3. Receiving (Inbound)
-4. Routing method
+- CPA – Contract Purchase Agreement
+1. Purchase agreements
+2. * create Agreement
+   * Manage Agreements
+3. Purchase Requestion (ADF)
+4. Purchase orders
+   * Process Requestions
+   * Manage orders
+   * Purchase agreements
+- Receiving (Inbound)
+- Routing method
 5. Direct delivery
 5. Standard receiving
 6. Inspection receiving
