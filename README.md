@@ -50,7 +50,10 @@
 1. Product Management
 2. PIM – Product Information Management
 3. Item Creation
-4. Manage Attributes
+4. Manage life cycle Phases
+5. Mange Item type
+6. Manage Attribute Groups
+7. Mange Item Status
 
 ### DAY-7
 1. Manage Unit of Measures
