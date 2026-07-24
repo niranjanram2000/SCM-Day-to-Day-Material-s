@@ -113,8 +113,80 @@ Inventory Configurations:
 * Procurement
 * Procurement Contracts
 * Supplier Qualification Management (SQM)
+<img width="1215" height="621" alt="Screenshot " src="https://github.com/user-attachments/assets/b1094f4f-969a-4002-8132-55e7687705af" />
 
+Supplier Portal (SP)
+---------------------
+1. Specify Supplier Numbering Sequence
+2. Manage Supplier Type Look-up
+3. Tax organization Look-up
+4. Manage Supplier Product and Service Category
+5. Manage Supplier Descriptive Flexfield
+6. Configure Supplier Registration and Profile Change Request
+7. Manage Internal Supplier Registration Approvals
+8. Manage Supplier Registration Approval
+9. Manage Supplier Profile Change Approvals
+10. Manage Supplier Spend Authorization Approvals
+11. Manage Internal Supplier Profile Change Approval
 
+Additional Setups:
+------------------
+12. Configure New Supplier Notification
+13. Manage Supplier Bank Account Descriptive Flex-fields
+14. Manage Audit Policies
 
+Access Needed for Creating Supplier
+-----------------------------------
+⬛ Employee
+⬛ Supplier Manager Role
+⬛ Buyer Setup
+⬛ Manage Data access for Business Unit (if supplier form not open)
 
+### Supplier Process Flow
+1. Supplier
+2. Supplier Address
+3. Supplier Site
+4. Supplier Site BU Assignment
+5. Supplier Contacts
+6. Supplier Qualifications
+7. Supplier Payments
 
+### Supplier Portal (SP):
+**********************
+1. Manual Supplier Creation
+ * Prospective Supplier
+ * Spend Authorized Supplier
+2. Internal Supplier / Registration
+3. External Supplier
+4. FBDI Process
+5. Promote Prospective Supplier as Spend Authorization
+6. Supplier Approval Process
+7. Supplier Change Approval Process
+  
+Scenarios:
+------------
+*upplier Administrator want to on board supplier
+* New Supplier want to be on-boarded
+* Supplier approver wants to approve supplier registration
+* Supplier Administrator wants to search Supplier with Supplier Number/Name
+* Supplier Administrator wants to search Suppliers with Business classifications/Supplier Type
+* Supplier Administrator wants to share same supplier across different Business Units
+* Supplier Administrator wants to create Parent- Child relationships
+## Procurement Foundation:
+*******************************
+1. Manage Payment Terms
+2. Manage Carriers Look-up   
+     < WSH_MODE_OF_TRANSPORT >
+     < WSH_SERVICE_LEVELS >
+4. Manage Carrier
+5. Manage FOB Look-up
+6. Manage Freight Term Look-up
+  <  a) Manage Procurement Document Numbering >
+7. Manage Purchasing Line types
+8. Manage Purchasing Profile options
+   
+## Procurement Configurations:
+*****************************
+1. Manage Common Options for Payables and Procurement
+2. Configure Requisitioning Business Function
+3. Configure Procurement Business Function
